@@ -1,0 +1,11 @@
+{
+  "name": "Belajar-JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RIOGERADIMUKE/Belajar-JS.git",
+  "author": "RIO GERADI MUKE <riomuke3@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
